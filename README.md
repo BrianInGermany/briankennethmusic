@@ -12,7 +12,4 @@ Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of t
 
 ## Social Media
 - [Facebook](https://facebook.com/BrianKennethMusic/)
-- [SoundCloud](https://soundcloud.com/briankennethmusic)
----
-
-[deutsch](/deutsch)
+- [Soundcloud](https://soundcloud.com/briankennethmusic)
