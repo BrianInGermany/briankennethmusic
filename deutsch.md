@@ -12,3 +12,4 @@ Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melanchol
 ## In den sozialen Medien
 - [Facebook](https://facebook.com/BrianKennethMusic/)
 - [Soundcloud](https://soundcloud.com/briankennethmusic)
+- [Telegram](https://t.me/BrianJL)
