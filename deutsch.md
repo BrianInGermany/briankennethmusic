@@ -1,4 +1,4 @@
-## Prost und Wilkommen!
+## Cheers und Wilkommen!
 Mit den lebendigen Klängen neu interpretierter Folk-Traditionals sowie einer Auswahl eigener Folk-Kreationen bringt Brian Kenneth das Haus in Stimmung und eure Füße zum Stampfen.
 
 Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melancholie der irischen Melodien in eine Welt versetzen, wo der Whisky so mild schmeckt wie Morgentau und nach Sonntag wieder Samstag an der Reihe ist.
