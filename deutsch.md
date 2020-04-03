@@ -14,6 +14,5 @@ Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musi
 
 ## Kontakt
 - [Facebook](https://facebook.com/BrianKennethMusic/)
-- [Soundcloud](https://soundcloud.com/briankennethmusic)
 - [Telegram](https://t.me/BrianJL)
 - [brian@briankenneth.rocks](mailto:brian@briankenneth.rocks)
