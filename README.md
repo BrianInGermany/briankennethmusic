@@ -13,8 +13,8 @@ Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virgini
 ## Upcoming gigs
 - 29 October 2020 at [Americana im Pädagog](https://facebook.com/pages/category/Concert-Tour/Americana-im-P%C3%A4dagog-128978271026708/), Darmstadt
 
-## Social Media
+## Contact
 - [Facebook](https://facebook.com/BrianKennethMusic/)
 - [Soundcloud](https://soundcloud.com/briankennethmusic)
 - [Telegram](https://t.me/BrianJL)
-- [WhatsApp](https://wa.me/4917644420427)
+- [brian@briankennth.rocks](mailto:brian@briankenneth.rocks)

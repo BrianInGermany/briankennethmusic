@@ -12,8 +12,8 @@ Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musi
 ## Anstehende Auftritte
 - 29 Oktober 2020 beim [Americana im Pädagog](https://facebook.com/pages/category/Concert-Tour/Americana-im-P%C3%A4dagog-128978271026708/), Darmstadt
 
-## In den sozialen Medien
+## Kontakt
 - [Facebook](https://facebook.com/BrianKennethMusic/)
 - [Soundcloud](https://soundcloud.com/briankennethmusic)
 - [Telegram](https://t.me/BrianJL)
-- [WhatsApp](https://wa.me/4917644420427)
+- [brian@briankennth.rocks](mailto:brian@briankenneth.rocks)
