@@ -17,4 +17,4 @@ Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virgini
 - [Facebook](https://facebook.com/BrianKennethMusic/)
 - [Soundcloud](https://soundcloud.com/briankennethmusic)
 - [Telegram](https://t.me/BrianJL)
-- [brian@briankennth.rocks](mailto:brian@briankenneth.rocks)
+- [brian@briankenneth.rocks](mailto:brian@briankenneth.rocks)
