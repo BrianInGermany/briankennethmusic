@@ -14,7 +14,6 @@ Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musi
 
 ## Gästebuch
 <iframe name="embed_readwrite" src="https://yopad.eu/p/briankenneth-365days?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width=600 height=400></iframe>
-
 ## Kontakt
 - [Facebook](https://facebook.com/BrianKennethMusic/)
 - [Telegram](https://t.me/BrianJL)
