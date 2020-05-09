@@ -22,7 +22,7 @@ Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virgini
 <div id="mc_embed_signup">
 <form action="https://rocks.us18.list-manage.com/subscribe/post?u=76694179b24a2e736370f65bd&amp;id=9a4131948b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Newsletter abonnieren</label>
+	<label for="mce-EMAIL">Subscribe to Newsletter</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_76694179b24a2e736370f65bd_9a4131948b" tabindex="-1" value=""></div>
