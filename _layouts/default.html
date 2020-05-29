@@ -30,8 +30,11 @@
   </head>
 
   <body>
-    {% if page.url != "gallery" %}
-    <a id="forkme_banner" href="https://briankenneth.rocks/gallery">Image Gallery</a>
+    {% if page.url != "/gallery/" %}
+    <a id="forkme_banner" href="/gallery">Image Gallery</a>
+          {% endif %} 
+    {% if page.url == "/gallery/" %}
+    <a id="forkme_banner" href="/">Home</a>
           {% endif %} 
     
     <div class="shell">
