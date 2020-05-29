@@ -9,7 +9,7 @@ Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melanchol
 ## Album-Downloads:
 - 2019-2020:  
 <a href="https://github.com/BrianInGermany/briankennethtracks/archive/master.zip"><img src="\assets\images\roadthatiramble.png" alt="albumArt" width="50%">
-- Noch in der Mache:  
+- In der Mache:  
 <a href="https://github.com/BrianInGermany/album2/archive/master.zip"><img src="\assets\images\takeadrink.jpg" alt="albumArt" width="50%">
 
 
