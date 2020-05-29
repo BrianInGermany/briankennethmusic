@@ -7,4 +7,5 @@
 
 ## Photos
 
-<img src="\assets\images\kroneBrian.jpeg" alt="brianKrone" width="75%">
+- <img src="\assets\images\kroneBrian.jpeg" alt="brianKrone" width="75%">
+- <img src="\assets\images\brianFlag.jpg" alt="brianFlag" width="100%">
