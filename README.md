@@ -7,7 +7,7 @@ Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of t
 ## Listen in
 <iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1021407670&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-## Album Downloads:
+## Album Downloads
 - 2019-2020:  
 <a href="https://github.com/BrianInGermany/briankennethtracks/archive/master.zip"><img src="\assets\images\roadthatiramble.png" alt="albumArt" width="50%">
 
