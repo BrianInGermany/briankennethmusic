@@ -8,9 +8,9 @@ Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melanchol
 
 - Kostenlose Album-Downloads:
   - ["Road That I Ramble"](https://github.com/BrianInGermany/briankennethtracks/archive/master.zip) (2019-2020)
-  <img src="\assets\images\roadthatiramble.png" alt="albumArt">
+  <img src="\assets\images\roadthatiramble.png" alt="albumArt" width="100">>
   - ["Take a Drink on Me"](https://github.com/BrianInGermany/album2/archive/master.zip) (wird aktuell aufgenommen)
-  <img src="\assets\images\takeadrink.jpg" alt="albumArt">
+  <img src="\assets\images\takeadrink.jpg" alt="albumArt" width="100">>
 
 
 ## Bio

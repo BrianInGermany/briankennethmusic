@@ -9,9 +9,9 @@ Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of t
 
 - Free Album Downloads:
   - ["Road That I Ramble"](https://github.com/BrianInGermany/briankennethtracks/archive/master.zip) (2019-2020)
-  <img src="\assets\images\roadthatiramble.png" alt="albumArt">
+  <img src="\assets\images\roadthatiramble.png" alt="albumArt" width="100">>
   - ["Take a Drink on Me"](https://github.com/BrianInGermany/album2/archive/master.zip) (in progress)
-  <img src="\assets\images\takeadrink.jpg" alt="albumArt">
+  <img src="\assets\images\takeadrink.jpg" alt="albumArt" width="100">
 
 ## Bio
 Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virginia and Florida, USA, and has been living and playing music in Germany since 2008. For the past three years, the German-Irish American has been playing Appalachian folksongs and Irish pub tunes to the folk fans of the Rhine-Main-Area.
