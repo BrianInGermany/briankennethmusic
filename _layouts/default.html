@@ -30,13 +30,13 @@
   </head>
 
   <body>
-    {% if page.url != "gallery/" %}
+    {% if page.url != "/gallery.md" %}
     <a id="forkme_banner" href="/gallery">Image Gallery</a>
           {% endif %} 
-    {% if page.url == "gallery/" %}
+    {% if page.url == "/gallery.md" %}
     <a id="forkme_banner_home" href="/">Home</a>
           {% endif %} 
-  {% if page.url == "privacy/" %}
+  {% if page.url == "/privacy.md" %}
   <a id="forkme_banner_home" href="/">Home</a>
         {% endif %} 
     
@@ -94,7 +94,7 @@
         {% if page.url == "/" %}
         <a href="/deutsch">deutsch</a>
           {% endif %}
-          {% if page.url == "deutsch" %}
+          {% if page.url == "/deutsch.md" %}
         <a href="/">English</a>
           {% endif %} 
    
