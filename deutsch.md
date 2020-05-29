@@ -4,11 +4,12 @@ Mit den lebendigen Klängen neu interpretierter Folk-Traditionals sowie einer Au
 Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melancholie der irischen Melodien in eine Welt versetzen, wo der Whisky so mild schmeckt wie Morgentau und nach Sonntag wieder Samstag an der Reihe ist.
 
 ## Reinhören
+### Streaming:
 <iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1021407670&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-- Alben zum kostenlosen Herunterladen:
-  - ["Road That I Ramble"](https://github.com/BrianInGermany/briankennethtracks/archive/master.zip) (2019-2020)
-  - ["Take a Drink on Me"](https://github.com/BrianInGermany/album2/archive/master.zip) (wird aktuell aufgenommen)
+### Kostenlose Album-Downloads:
+- ["Road That I Ramble"](https://github.com/BrianInGermany/briankennethtracks/archive/master.zip) (2019-2020)
+- ["Take a Drink on Me"](https://github.com/BrianInGermany/album2/archive/master.zip) (wird aktuell aufgenommen)
 
 
 ## Bio
