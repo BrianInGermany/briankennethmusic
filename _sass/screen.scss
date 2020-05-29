@@ -130,6 +130,18 @@ a#forkme_banner {
   z-index: 3;
 }
 
+a#forkme_banner_home {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 138px;
+  height: 138px;
+  display: block;
+  background: transparent url(../images/fork-home.png) 0 0 no-repeat;
+  text-indent: -9000px;
+  z-index: 3;
+}
+
 a#forkme_banner:hover {
   background-position: 0 -138px;
 }
