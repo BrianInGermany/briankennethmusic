@@ -30,9 +30,9 @@
   </head>
 
   <body>
-    {% if page.url == "/" or page.url == "deutsch" %}
+    {% if page.url == "/" or page.url == "/deutsch" %}
     <a id="forkme_banner" href="/gallery">Image Gallery</a>
-    {% elsif page.url == "gallery" or page.url == "privacy" %}
+    {% elsif page.url == "/gallery" or page.url == "/privacy" %}
     <a id="forkme_banner_home" href="/">Home</a>
           {% endif %} 
 
@@ -91,7 +91,7 @@
         {% if page.url == "/" %}
         <a href="/deutsch">deutsch</a>
      
-          {% elsif page.url == "deutsch" %}
+          {% elsif page.url == "/deutsch" %}
         <a href="/">English</a>
           {% endif %} 
    
