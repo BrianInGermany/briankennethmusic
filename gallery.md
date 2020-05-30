@@ -12,4 +12,3 @@
 
 - <img src="\assets\images\kroneBrian.jpeg" alt="brianKrone" width="75%">
 - <img src="\assets\images\brianSchweinerei2.png" alt="brianBBQ" width="75%">
-- <img src="\assets\images\brianFlag.jpg" alt="brianFlag" width="100%">

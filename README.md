@@ -38,3 +38,4 @@ Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virgini
     </div>
 </form>
 </div>
+<img src="\assets\images\brianFlag.jpg" alt="brianFlag" width="100%">

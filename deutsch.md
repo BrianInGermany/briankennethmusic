@@ -35,3 +35,4 @@ Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musi
     </div>
 </form>
 </div>
+<img src="\assets\images\brianFlag.jpg" alt="brianFlag" width="100%">
