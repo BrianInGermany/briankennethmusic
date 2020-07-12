@@ -9,10 +9,10 @@ Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of t
 
 ## Album Downloads
 - 2019-2020:  
-<a href="https://github.com/BrianInGermany/briankennethtracks/archive/master.zip"><img src="\assets\images\roadthatiramble.png" alt="albumArt" width="50%">
+<a href="https://github.com/BrianInGermany/briankennethtracks/archive/master.zip"><img src="\assets\images\roadthatiramble.png" alt="albumArt" width="25%">
 
 - In progress:  
-<a href="https://github.com/BrianInGermany/album2/archive/master.zip"><img src="\assets\images\takeadrink.jpg" alt="albumArt" width="50%">
+<a href="https://github.com/BrianInGermany/album2/archive/master.zip"><img src="\assets\images\takeadrink.jpg" alt="albumArt" width="25%">
 
 
 ## Bio
