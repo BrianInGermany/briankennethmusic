@@ -16,7 +16,7 @@ Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melanchol
 Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musiziert seit zehn Jahren in Deutschland. Seit über drei Jahren bringt der Deutsch-Irisch-Amerikaner seine appalachischen Volkslieder und irischen Pub-Tunes in den Kneipen des Rhein-Main-Gebiets an die Folk-Fans.
 
 ## Anstehende Auftritte
-- 30 Juli 2020 beim [Americana am Pädagog](https://www.facebook.com/events/1161898370842482/), Darmstadt
+- 30 Juli 2020 um 19:00 beim [Americana am Pädagog](https://www.facebook.com/events/1161898370842482/), Darmstadt
 - 29 Oktober 2020 beim [Americana im Pädagog](https://facebook.com/pages/category/Concert-Tour/Americana-im-P%C3%A4dagog-128978271026708/), Darmstadt
 
 ## Kontakt
