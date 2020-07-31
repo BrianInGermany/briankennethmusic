@@ -19,10 +19,6 @@ Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of t
 Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virginia and Florida, USA, and has been living and playing music in Germany since 2008. For the past three years, the German-Irish American has been playing Appalachian folksongs and Irish pub tunes to the folk fans of the Rhine-Main-Area.
 
 ## Upcoming gigs
-<<<<<<< HEAD
-- 30 July 2020, 7pm at [Americana am Pädagog](https://www.facebook.com/events/1161898370842482/), Darmstadt
-=======
->>>>>>> add pictures, delete past gig from upcoming
 - 29 October 2020 at [Americana im Pädagog](https://facebook.com/pages/category/Concert-Tour/Americana-im-P%C3%A4dagog-128978271026708/), Darmstadt
 
 ## Contact
