@@ -12,3 +12,4 @@
 
 - <img src="\assets\images\kroneBrian.jpeg" alt="brianKrone" width="75%">
 - <img src="\assets\images\brianSchweinerei2.png" alt="brianBBQ" width="75%">
+- <img src="\assets\images\paedagog.jpg" alt="brianPaedagog" width="75%">
