@@ -18,8 +18,8 @@ Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of t
 ## Bio
 Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virginia and Florida, USA, and has been living and playing music in Germany since 2008. For the past three years, the German-Irish American has been playing Appalachian folksongs and Irish pub tunes to the folk fans of the Rhine-Main-Area.
 
-## Upcoming gigs
-- 29 October 2020 at [Americana im Pädagog](https://facebook.com/pages/category/Concert-Tour/Americana-im-P%C3%A4dagog-128978271026708/), Darmstadt
+## Press
+- ["Ein Lagerfeuer mitten in Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), article in tge Darmstädter Echo
 
 ## Contact
 - [Telegram](https://t.me/BrianJL)
