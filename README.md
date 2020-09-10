@@ -14,10 +14,12 @@ Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of t
 - In progress:  
 <a href="https://github.com/BrianInGermany/album2/archive/master.zip"><img src="\assets\images\takeadrink.jpg" alt="albumArt" width="25%">
 
-
 ## Bio
 Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virginia and Florida, USA, and has been living and playing music in Germany since 2008. For the past three years, the German-Irish American has been playing Appalachian folksongs and Irish pub tunes to the folk fans of the Rhine-Main-Area.
 
+## Upcoming Gigs
+- [Love Songs for the Other America - Revisited](https://www.knabenschule.de/index.php?id=991), Saturday 24 October 2020 at 8pm in Bessunger Knabenschule, Darmstadt
+  
 ## Press
 - ["Ein Lagerfeuer mitten in Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), article in the Darmstädter Echo from 1 August 2020
 

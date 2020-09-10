@@ -15,6 +15,9 @@ Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melanchol
 ## Bio
 Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musiziert seit zehn Jahren in Deutschland. Seit über drei Jahren bringt der Deutsch-Irisch-Amerikaner seine appalachischen Volkslieder und irischen Pub-Tunes in den Kneipen des Rhein-Main-Gebiets an die Folk-Fans.
 
+## Upcoming Gigs
+- [Love Songs for the Other America - Revisited](https://www.knabenschule.de/index.php?id=991), Samstag, 24. Oktober 2020 um 20:00 in der Bessunger Knabenschule, Darmstadt
+  
 ## Presse
 - ["Ein Lagerfeuer mitten in Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), Artikel im Darmstädter Echo vom 1.8.2020
 
