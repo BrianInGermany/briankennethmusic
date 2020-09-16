@@ -9,10 +9,10 @@ Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of t
 
 ## Album Downloads
 - 2019-2020:  
-<a href="https://github.com/BrianInGermany/briankennethtracks/archive/master.zip"><img src="\assets\images\roadthatiramble.png" alt="albumArt" width="25%">
+<a href="https://github.com/BrianInGermany/briankennethtracks/archive/master.zip"><img src="\assets\images\roadthatiramble.png" alt="albumArt" width="40%">
 
 - In progress:  
-<a href="https://github.com/BrianInGermany/album2/archive/master.zip"><img src="\assets\images\takeadrink.jpg" alt="albumArt" width="25%">
+<a href="https://github.com/BrianInGermany/album2/archive/master.zip"><img src="\assets\images\takeadrink.jpg" alt="albumArt" width="40%">
 
 ## Bio
 Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virginia and Florida, USA, and has been living and playing music in Germany since 2008. For the past three years, the German-Irish American has been playing Appalachian folksongs and Irish pub tunes to the folk fans of the Rhine-Main-Area.
@@ -32,7 +32,7 @@ Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virgini
 <div id="mc_embed_signup">
 <form action="https://rocks.us18.list-manage.com/subscribe/post?u=76694179b24a2e736370f65bd&amp;id=9a4131948b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Subscribe to Monthly Newsletter!</label>
+	<label for="mce-EMAIL">Subscribe to Newsletter!</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_76694179b24a2e736370f65bd_9a4131948b" tabindex="-1" value=""></div>
