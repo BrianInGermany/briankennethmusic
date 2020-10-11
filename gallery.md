@@ -9,7 +9,7 @@
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FBrianKennethMusic%2Fvideos%2F564640897813223%2F&show_text=0&width=269" width="269" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 ## Photos
-
+- <img src="\assets\images\portraitBrian.jpg" alt="brianPortrait" width="75%">
 - <img src="\assets\images\kroneBrian.jpeg" alt="brianKrone" width="75%">
 - <img src="\assets\images\brianSchweinerei2.png" alt="brianBBQ" width="75%">
 - <img src="\assets\images\paedagog.jpg" alt="brianPaedagog" width="75%">
