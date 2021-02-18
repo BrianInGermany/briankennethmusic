@@ -20,22 +20,9 @@ Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musi
   
 ## Presse
 - ["Ein Lagerfeuer mitten in Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), Artikel im Darmstädter Echo vom 1.8.2020
-
+- <iframe src="https://open.spotify.com/embed-podcast/episode/0SyrA1gYE0H5Zmosnb484c" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 ## Kontakt
 - [Telegram](https://t.me/BrianJL)
 - [brian@briankenneth.rocks](mailto:brian@briankenneth.rocks)
 - [Facebook](https://facebook.com/briankennethmusic)
 
-## Newsletter
-<div id="mc_embed_signup">
-<form action="https://rocks.us18.list-manage.com/subscribe/post?u=76694179b24a2e736370f65bd&amp;id=9a4131948b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">In den Verteiler eintragen!</label>
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="E-Mail-Adresse" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_76694179b24a2e736370f65bd_9a4131948b" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="eintragen" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-<!-- <img src="\assets\images\brianFlag.jpg" alt="brianFlag" width="100%"> -->
