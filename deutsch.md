@@ -14,7 +14,7 @@ Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melanchol
 
 ## Mitsingen
 
-Eine Auswahl von Brians Lieblingslieder als mp3 und PDF-Partitur:
+Eine Auswahl von Brians Lieblingsliedern als MP3 und PDF-Partitur:
 - <a href="https://github.com/BrianInGermany/songbookalbum/archive/master.zip">Zip-Download</a>
 
 ## Bio

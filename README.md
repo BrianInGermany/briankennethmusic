@@ -16,7 +16,7 @@ Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of t
 
 ## Sing along
 
-Some of Brian's favorite songs, both traditionals and a selection of his own songs in mp3 and PDF sheet music:
+Some of Brian's favorite songs, both traditionals and a selection of his own songs in mp3 and pdf sheet music:
 - <a href="https://github.com/BrianInGermany/songbookalbum/archive/master.zip">Download zip</a>
 
 ## Bio
