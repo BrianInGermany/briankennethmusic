@@ -12,7 +12,7 @@ Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melanchol
 - In der Mache:  
 <a href="https://github.com/BrianInGermany/album2/archive/master.zip"><img src="\assets\images\takeadrink.jpg" alt="albumArt" width="40%">
 
-## Mitspielen
+## Mitsingen
 
 Eine Auswahl von Brians Lieblignslieder als mp3 und PDF-Partitur:
 - <a href="https://github.com/BrianInGermany/songbookalbum/archive/master.zip">Zip-Download</a>
