@@ -14,6 +14,11 @@ Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of t
 - In progress:  
 <a href="https://github.com/BrianInGermany/album2/archive/master.zip"><img src="\assets\images\takeadrink.jpg" alt="albumArt" width="40%">
 
+## Sing along
+
+Some of Brian's favorite songs, both traditionals and a selection of his own songs in mp3 and PDF sheet music:
+- <a href="https://github.com/BrianInGermany/songbookalbum/archive/master.zip">Download zip</a>
+
 ## Bio
 Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virginia and Florida, USA, and has been living and playing music in Germany since 2008. For the past three years, the German-Irish American has been playing Appalachian folksongs and Irish pub tunes to the folk fans of the Rhine-Main-Area.
 

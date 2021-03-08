@@ -12,6 +12,11 @@ Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melanchol
 - In der Mache:  
 <a href="https://github.com/BrianInGermany/album2/archive/master.zip"><img src="\assets\images\takeadrink.jpg" alt="albumArt" width="40%">
 
+## Mitspielen
+
+Eine Auswahl von Brians Lieblignslieder als mp3 und PDF-Partitur:
+- <a href="https://github.com/BrianInGermany/songbookalbum/archive/master.zip">Zip-Download</a>
+
 ## Bio
 Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musiziert seit zehn Jahren in Deutschland. Seit über drei Jahren bringt der Deutsch-Irisch-Amerikaner seine appalachischen Volkslieder und irischen Pub-Tunes in den Kneipen des Rhein-Main-Gebiets an die Folk-Fans.
 
