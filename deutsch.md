@@ -20,7 +20,7 @@ Eine Auswahl von Brians Lieblingsliedern als MP3 und PDF-Partitur:
 ## Bio
 Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musiziert seit zehn Jahren in Deutschland. Seit über drei Jahren bringt der Deutsch-Irisch-Amerikaner seine appalachischen Volkslieder und irischen Pub-Tunes in den Kneipen des Rhein-Main-Gebiets an die Folk-Fans.
 ## Auftritte und Sessions
-- [Jimmy McFarrel's Irish Pub](https://www.facebook.com/events/1048853852538507), 9. Sept. 19:30, Bad Homburg
+- [Session in Jimmy McFarrel's Irish Pub](https://www.facebook.com/events/1048853852538507), 9. Sept. 19:30, Bad Homburg
   
 ## Presse
 - ["Ein Lagerfeuer mitten in Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), Artikel im Darmstädter Echo vom 1.8.2020
