@@ -1,2 +1,2 @@
-<meta http-equiv="refresh" content="0; url=http://songbook.briankenneth.rocks/" />
-<p><a href="http://songbook.briankenneth.rocks/">Brian Kenneth's Songbook</a></p>
+<meta http-equiv="refresh" content="0; url=https://brians-folktunes.s3.amazonaws.com/numberedSongs.pdf" />
+<p><a href="https://brians-folktunes.s3.amazonaws.com/numberedSongs.pdf">Brian Kenneth's Songbook</a></p>
