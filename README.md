@@ -22,7 +22,7 @@ Some of Brian's favorite songs, both traditionals and a selection of his own son
 ## Bio
 Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virginia and Florida, USA, and has been living and playing music in Germany since 2008. For the past three years, the German-Irish American has been playing Appalachian folksongs and Irish pub tunes to the folk fans of the Rhine-Main-Area.
 
-## Upcoming Gigs and Sessions
+## Gigs and Sessions
 - [Jimmy McFarrel's Irish Pub](https://www.facebook.com/events/1048853852538507), 9 Sept. 19:30, Bad Homburg
   
 ## Press
