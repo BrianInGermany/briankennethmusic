@@ -17,7 +17,7 @@ Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virgini
 - ["Ein Lagerfeuer mitten in Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), article in the Darmstädter Echo from 1 August 2020
 - <iframe src="https://open.spotify.com/embed-podcast/episode/0SyrA1gYE0H5Zmosnb484c" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-## Freebies
+## Goodies
 ### Album Downloads
 - 2019-2020:  
 <a href="https://github.com/BrianInGermany/briankennethtracks/archive/master.zip"><img src="\assets\images\roadthatiramble.png" alt="albumArt" width="40%">
