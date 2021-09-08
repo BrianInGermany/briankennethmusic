@@ -6,17 +6,6 @@ Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melanchol
 ## Reinhören
 <iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1021407670&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-## Album-Downloads
-- 2019-2020:  
-<a href="https://github.com/BrianInGermany/briankennethtracks/archive/master.zip"><img src="\assets\images\roadthatiramble.png" alt="albumArt" width="40%">
-- In der Mache:  
-<a href="https://github.com/BrianInGermany/album2/archive/master.zip"><img src="\assets\images\takeadrink.jpg" alt="albumArt" width="40%">
-
-## Mitsingen
-
-Eine Auswahl von Brians Lieblingsliedern als MP3 und PDF-Partitur:
-- <a href="https://github.com/BrianInGermany/songbookalbum/archive/master.zip">Zip-Download</a>
-
 ## Bio
 Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musiziert seit zehn Jahren in Deutschland. Seit über drei Jahren bringt der Deutsch-Irisch-Amerikaner seine appalachischen Volkslieder und irischen Pub-Tunes in den Kneipen des Rhein-Main-Gebiets an die Folk-Fans.
 ## Auftritte und Sessions
@@ -25,6 +14,18 @@ Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musi
 ## Presse
 - ["Ein Lagerfeuer mitten in Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), Artikel im Darmstädter Echo vom 1.8.2020
 - <iframe src="https://open.spotify.com/embed-podcast/episode/0SyrA1gYE0H5Zmosnb484c" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+## Zum Mitnehmen
+### Album-Downloads
+- 2019-2020:  
+<a href="https://github.com/BrianInGermany/briankennethtracks/archive/master.zip"><img src="\assets\images\roadthatiramble.png" alt="albumArt" width="40%">
+- In der Mache:  
+<a href="https://github.com/BrianInGermany/album2/archive/master.zip"><img src="\assets\images\takeadrink.jpg" alt="albumArt" width="40%">
+
+### Zum Mitsingen
+
+Eine Auswahl von Brians Lieblingsliedern als MP3 und PDF-Partitur:
+- <a href="https://github.com/BrianInGermany/songbookalbum/archive/master.zip">Zip-Download</a>
 
 ## Kontakt
 - [Telegram](https://t.me/BrianJL)
