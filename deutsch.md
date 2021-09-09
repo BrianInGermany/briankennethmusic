@@ -22,7 +22,7 @@ Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musi
 - In der Mache:  
 <a href="https://github.com/BrianInGermany/album2/archive/master.zip"><img src="\assets\images\takeadrink.jpg" alt="albumArt" width="40%">
 
-### Zum Mitsingen
+### Zum Mitspielen
 
 Eine Auswahl von Brians Lieblingsliedern als MP3 und PDF-Partitur:
 - <a href="https://github.com/BrianInGermany/songbookalbum/archive/master.zip">Zip-Download</a>
