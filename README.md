@@ -5,13 +5,24 @@ With the rambunctious rhythms of freshly interpreted folk traditionals, as well 
 Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of the folk melodies take you to a place the whisky tastes mild as the mountain dew, and the day after Sunday is Saturday all over again.
 
 ## Listen in
+"I'll Tell Me Ma"
 <audio controls>
   <source src="assets\images\Ill_Tell_Me_Ma.mp3" type="audio/ogg">
-  <source src="assets\images\Road_That_I_Ramble.mp3" type="audio/mpeg">
-
-  <source src="assets\images\Soon_May_the_Wellerman_Come.mp3" type="audio/mpeg">
-    <source src="assets\images\No_Time_for_Lovin.mp3" type="audio/mpeg">
-
+</audio>
+<br/>
+"Road That I Ramble"
+<audio controls>
+ <source src="assets\images\Road_That_I_Ramble.mp3" type="audio/mpeg">
+</audio>
+<br/>
+"Soon May the Wellerman Come"
+<audio controls>
+ <source src="assets\images\Soon_May_the_Wellerman_Come.mp3" type="audio/mpeg">
+ </audio>
+ <br/>
+"No Time for Lovin'" (by Brian Kenneth)
+ <audio controls>
+     <source src="assets\images\No_Time_for_Lovin.mp3" type="audio/mpeg">
 </audio>
 <!-- <iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1021407670&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe> -->
 

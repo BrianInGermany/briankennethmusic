@@ -4,13 +4,24 @@ Mit den lebendigen Klängen neu interpretierter Folk-Traditionals sowie einer Au
 Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melancholie der irischen Melodien in eine Welt versetzen, wo der Whisky so mild schmeckt wie Morgentau und nach Sonntag wieder Samstag an der Reihe ist.
 
 ## Reinhören
+"I'll Tell Me Ma"
 <audio controls>
   <source src="assets\images\Ill_Tell_Me_Ma.mp3" type="audio/ogg">
-  <source src="assets\images\Road_That_I_Ramble.mp3" type="audio/mpeg">
-
-  <source src="assets\images\Soon_May_the_Wellerman_Come.mp3" type="audio/mpeg">
-    <source src="assets\images\No_Time_for_Lovin.mp3" type="audio/mpeg">
-
+</audio>
+<br/>
+"Road That I Ramble"
+<audio controls>
+ <source src="assets\images\Road_That_I_Ramble.mp3" type="audio/mpeg">
+</audio>
+<br/>
+"Soon May the Wellerman Come"
+<audio controls>
+ <source src="assets\images\Soon_May_the_Wellerman_Come.mp3" type="audio/mpeg">
+ </audio>
+ <br/>
+"No Time for Lovin'"
+ <audio controls>
+     <source src="assets\images\No_Time_for_Lovin.mp3" type="audio/mpeg">
 </audio>
 <!-- <iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1021407670&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe> -->
 
