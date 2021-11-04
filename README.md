@@ -11,7 +11,7 @@ Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of t
 Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virginia and Florida, USA, and has been living and playing music in Germany since 2008. For the past three years, the German-Irish American has been playing Appalachian folksongs and Irish pub tunes to the folk fans of the Rhine-Main-Area.
 
 ## Gigs and Sessions
-- [Session in Jimmy McFarrel's Irish Pub](https://www.facebook.com/events/1048853852538507), 9 Sept. 19:30, Bad Homburg
+- Folk Session at Irish House Offenbach, 14 Nov. 2021, Time TBA, Ernst-Griesheimer-Platz 7, Offenbach
   
 ## Press
 - ["Ein Lagerfeuer mitten in Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), article in the Darmstädter Echo from 1 August 2020
