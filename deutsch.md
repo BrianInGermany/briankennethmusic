@@ -6,26 +6,26 @@ Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melanchol
 <img src="\assets\images\spainCircle.png" id="brianpic" alt="brianport" width="50%">
 
 ## Reinhören
-"I'll Tell Me Ma"
+<p class="audiotext">"I'll Tell Me Ma"</p>
 <audio controls>
   <source src="assets\images\Ill_Tell_Me_Ma.mp3" type="audio/ogg">
 </audio>
 <br/>
-"Road That I Ramble" (by Brian Kenneth)
+<p class="audiotext">"Road That I Ramble" (by Brian Kenneth)</p>
 <audio controls>
  <source src="assets\images\Road_That_I_Ramble.mp3" type="audio/mpeg">
 </audio>
 <br/>
-"Soon May the Wellerman Come"
+<p class="audiotext">"Soon May the Wellerman Come"</p>
 <audio controls>
  <source src="assets\images\Soon_May_the_Wellerman_Come.mp3" type="audio/mpeg">
  </audio>
  <br/>
-"No Time for Lovin'" (by Brian Kenneth)
+<p class="audiotext">"No Time for Lovin'" (by Brian Kenneth)</p>
  <audio controls>
      <source src="assets\images\No_Time_for_Lovin.mp3" type="audio/mpeg">
 </audio>
-"Down the Road" (Brian, Jim, JD and Javier)
+<p class="audiotext">"Down the Road" (Brian, Jim, JD and Javier)</p>
  <audio controls>
      <source src="assets\images\jam_session.mp3" type="audio/mpeg">
 </audio>
