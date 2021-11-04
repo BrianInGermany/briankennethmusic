@@ -3,6 +3,7 @@
 With the rambunctious rhythms of freshly interpreted folk traditionals, as well as a handful of his own songs, Brian Kenneth will get your hands a-clapping and your toes a-tapping!
 
 Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of the folk melodies take you to a place the whisky tastes mild as the mountain dew, and the day after Sunday is Saturday all over again.
+<img src="\assets\images\portraitBrian" alt="brianport" width="100%">
 
 ## Listen in
 "I'll Tell Me Ma"
@@ -10,7 +11,7 @@ Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of t
   <source src="assets\images\Ill_Tell_Me_Ma.mp3" type="audio/ogg">
 </audio>
 <br/>
-"Road That I Ramble"
+"Road That I Ramble" (by Brian Kenneth)
 <audio controls>
  <source src="assets\images\Road_That_I_Ramble.mp3" type="audio/mpeg">
 </audio>
@@ -30,7 +31,7 @@ Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of t
 Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virginia and Florida, USA, and has been living and playing music in Germany since 2008. For the past three years, the German-Irish American has been playing Appalachian folksongs and Irish pub tunes to the folk fans of the Rhine-Main-Area.
 
 ## Gigs and Sessions
-- Folk Session at Irish House Offenbach, 14 Nov. 2021, Time TBA, Ernst-Griesheimer-Platz 7, Offenbach
+- [Folk Session at Irish House Offenbach](https://irishhouseof.de), 14 Nov. 2021, Time TBA, Ernst-Griesheimer-Platz 7, Offenbach
   
 ## Press
 - ["Ein Lagerfeuer mitten in Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), article in the Darmstädter Echo from 1 August 2020
@@ -56,4 +57,3 @@ Some of Brian's favorite songs, both traditionals and a selection of his own son
 
 
 
-<!-- <img src="\assets\images\brianFlag.jpg" alt="brianFlag" width="100%"> -->
