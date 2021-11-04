@@ -3,7 +3,7 @@
 With the rambunctious rhythms of freshly interpreted folk traditionals, as well as a handful of his own songs, Brian Kenneth will get your hands a-clapping and your toes a-tapping!
 
 Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of the folk melodies take you to a place the whisky tastes mild as the mountain dew, and the day after Sunday is Saturday all over again.
-<img src="\assets\images\spainCircle.png" alt="brianport" width="100%">
+<img src="\assets\images\spainCircle.png" id="brianpic" alt="brianport" width="50%">
 
 ## Listen in
 "I'll Tell Me Ma"
