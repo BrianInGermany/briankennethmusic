@@ -2,7 +2,7 @@
 Mit den lebendigen Klängen neu interpretierter Folk-Traditionals sowie einer Auswahl eigener Folk-Kreationen bringt Brian Kenneth das Haus in Stimmung und eure Füße zum Stampfen.
 
 Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melancholie der irischen Melodien in eine Welt versetzen, wo der Whisky so mild schmeckt wie Morgentau und nach Sonntag wieder Samstag an der Reihe ist.
-<img src="\assets\images\spainCircle.png" alt="brianport" width="100%">
+<img src="\assets\images\spainCircle.png" id="brianpic" alt="brianport" width="100%">
 
 ## Reinhören
 "I'll Tell Me Ma"
