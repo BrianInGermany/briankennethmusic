@@ -2,6 +2,7 @@
 Mit den lebendigen Klängen neu interpretierter Folk-Traditionals sowie einer Auswahl eigener Folk-Kreationen bringt Brian Kenneth das Haus in Stimmung und eure Füße zum Stampfen.
 
 Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melancholie der irischen Melodien in eine Welt versetzen, wo der Whisky so mild schmeckt wie Morgentau und nach Sonntag wieder Samstag an der Reihe ist.
+<img src="\assets\images\portraitBrian" alt="brianport" width="100%">
 
 ## Reinhören
 "I'll Tell Me Ma"
@@ -19,7 +20,7 @@ Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melanchol
  <source src="assets\images\Soon_May_the_Wellerman_Come.mp3" type="audio/mpeg">
  </audio>
  <br/>
-"No Time for Lovin'"
+"No Time for Lovin'" (by Brian Kenneth)
  <audio controls>
      <source src="assets\images\No_Time_for_Lovin.mp3" type="audio/mpeg">
 </audio>
@@ -28,7 +29,7 @@ Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melanchol
 ## Bio
 Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musiziert seit zehn Jahren in Deutschland. Seit über drei Jahren bringt der Deutsch-Irisch-Amerikaner seine appalachischen Volkslieder und irischen Pub-Tunes in den Kneipen des Rhein-Main-Gebiets an die Folk-Fans.
 ## Auftritte und Sessions
-- Folk Session im Irish House Offenbach, 14. Nov. 2021, Uhrzeit folgt, Ernst-Griesheimer-Platz 7, Offenbach
+- [Folk Session at Irish House Offenbach](https://irishhouseof.de), 14. Nov. 2021, Uhrzeit folgt, Ernst-Griesheimer-Platz 7, Offenbach
   
 ## Presse
 - ["Ein Lagerfeuer mitten in Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), Artikel im Darmstädter Echo vom 1.8.2020
