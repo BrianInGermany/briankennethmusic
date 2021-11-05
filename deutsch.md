@@ -5,6 +5,14 @@ Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melanchol
 <br/>
 <video src="/assets/images/bootlegjohn.mp4" autoplay muted loop width="100%"></video>
 
+## Bio
+Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musiziert seit zehn Jahren in Deutschland. Seit über drei Jahren bringt der Deutsch-Irisch-Amerikaner seine appalachischen Volkslieder und irischen Pub-Tunes in den Kneipen des Rhein-Main-Gebiets an die Folk-Fans.
+## Anstehende Auftritte
+- [Folk Session at Irish House Offenbach](https://irishhouseof.de), 14. Nov. 2021, Uhrzeit folgt, Ernst-Griesheimer-Platz 7, Offenbach
+  
+## Presse
+- ["Ein Lagerfeuer mitten in Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), Artikel im Darmstädter Echo vom 1.8.2020
+
 ## Reinhören
 <p class="audiotext">"I'll Tell Me Ma"</p>
 <audio controls>
@@ -28,17 +36,11 @@ Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melanchol
 </audio>
 <!-- <iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1021407670&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe> -->
 
-## Bio
-Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musiziert seit zehn Jahren in Deutschland. Seit über drei Jahren bringt der Deutsch-Irisch-Amerikaner seine appalachischen Volkslieder und irischen Pub-Tunes in den Kneipen des Rhein-Main-Gebiets an die Folk-Fans.
-## Anstehende Auftritte
-- [Folk Session at Irish House Offenbach](https://irishhouseof.de), 14. Nov. 2021, Uhrzeit folgt, Ernst-Griesheimer-Platz 7, Offenbach
-  
-## Presse
-- ["Ein Lagerfeuer mitten in Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), Artikel im Darmstädter Echo vom 1.8.2020
+## [Gallery](gallery)
+## [Downloads](/downloads)
 
 ## Kontakt
 - [Telegram](https://t.me/BrianJL)
 - [brian@briankenneth.rocks](mailto:brian@briankenneth.rocks)
 - [Facebook](https://facebook.com/briankennethmusic)
 
-## [Downloads](/downloads)
