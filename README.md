@@ -11,17 +11,14 @@ Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of t
 <audio controls>
   <source src="assets\images\Ill_Tell_Me_Ma.mp3" type="audio/ogg">
 </audio>
-<br/>
 <p class="audiotext">"Road That I Ramble" (by Brian Kenneth)</p>
 <audio controls>
  <source src="assets\images\Road_That_I_Ramble.mp3" type="audio/mpeg">
 </audio>
-<br/>
 <p class="audiotext">"Soon May the Wellerman Come"</p>
 <audio controls>
  <source src="assets\images\Soon_May_the_Wellerman_Come.mp3" type="audio/mpeg">
  </audio>
- <br/>
 <p class="audiotext">"No Time for Lovin'" (by Brian Kenneth)</p>
  <audio controls>
      <source src="assets\images\No_Time_for_Lovin.mp3" type="audio/mpeg">
