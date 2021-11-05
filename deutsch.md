@@ -6,6 +6,8 @@ Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melanchol
 <img src="\assets\images\briankennethlogo.svg" id="brianpic" alt="logo" width="50%">
 
 ## Reinhören
+<p class="audiotext">"Bootleg John"</p>
+<video src="/assets/images/bootlegjohn.mp4" autoplay muted loop width="100%"></video>
 <p class="audiotext">"I'll Tell Me Ma"</p>
 <audio controls>
   <source src="assets\images\Ill_Tell_Me_Ma.mp3" type="audio/ogg">
@@ -26,7 +28,6 @@ Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melanchol
  <audio controls>
      <source src="assets\images\jam_session.mp3" type="audio/mpeg">
 </audio>
-<video src="/assets/images/bootlegjohn.mp4" autoplay muted loop width="100%"></video>
 <!-- <iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1021407670&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe> -->
 
 ## Bio
