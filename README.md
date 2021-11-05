@@ -4,7 +4,7 @@ With the rambunctious rhythms of freshly interpreted folk traditionals, as well 
 
 Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of the folk melodies take you to a place the whisky tastes mild as the mountain dew, and the day after Sunday is Saturday all over again.
 <br/>
-<img src="\assets\images\spainCircle.png" id="brianpic" alt="brianport" width="50%">
+<img src="\assets\images\briankennethlogo.svg" id="brianpic" alt="logo" width="50%">
 
 ## Listen in
 <p class="audiotext">"I'll Tell Me Ma"</p>
