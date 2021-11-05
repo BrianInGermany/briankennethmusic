@@ -27,34 +27,24 @@ Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of t
  <audio controls>
      <source src="assets\images\jam_session.mp3" type="audio/mpeg">
 </audio>
+<video src="/assets/images/bootlegjohn.mp4" autoplay muted loop width="100%"></video>
+
 <!-- <iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1021407670&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe> -->
 
 ## Bio
 Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virginia and Florida, USA, and has been living and playing music in Germany since 2008. For the past three years, the German-Irish American has been playing Appalachian folksongs and Irish pub tunes to the folk fans of the Rhine-Main-Area.
 
-## Gigs
+## Upcoming Gigs
 - [Folk Session at Irish House Offenbach](https://irishhouseof.de), 14 Nov. 2021, Time TBA, Ernst-Griesheimer-Platz 7, Offenbach
   
 ## Press
 - ["Ein Lagerfeuer mitten in Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), article in the Darmstädter Echo from 1 August 2020
-
-## Goodies
-### Album Downloads
-- 2019-2020:  
-<a href="https://github.com/BrianInGermany/briankennethtracks/archive/master.zip"><img src="\assets\images\roadthatiramble.png" alt="albumArt" width="40%">
-
-- In progress:  
-<a href="https://github.com/BrianInGermany/album2/archive/master.zip"><img src="\assets\images\takeadrink.jpg" alt="albumArt" width="40%">
-
-### Sing Along
-
-Some of Brian's favorite songs, both traditionals and a selection of his own songs in mp3 and pdf sheet music:
-- <a href="https://github.com/BrianInGermany/songbookalbum/archive/master.zip">Download zip</a>
 
 ## Contact
 - [Telegram](https://t.me/BrianJL)
 - [brian@briankenneth.rocks](mailto:brian@briankenneth.rocks)
 - [Facebook](https://facebook.com/briankennethmusic)
 
+## [Downloads](/downloads)
 
 
