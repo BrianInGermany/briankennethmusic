@@ -1,13 +1,11 @@
 ## Cheers und Willkommen!
 Mit den lebendigen Klängen neu interpretierter Folk-Traditionals sowie einer Auswahl eigener Folk-Kreationen bringt Brian Kenneth das Haus in Stimmung und eure Füße zum Stampfen.
-
+<img src="\assets\images\briankennethlogo1.png" id="brianpic" alt="logo" width="30%">
 Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melancholie der irischen Melodien in eine Welt versetzen, wo der Whisky so mild schmeckt wie Morgentau und nach Sonntag wieder Samstag an der Reihe ist.
 <br/>
-<img src="\assets\images\briankennethlogo1.png" id="brianpic" alt="logo" width="50%">
+<video src="/assets/images/bootlegjohn.mp4" autoplay muted loop width="100%"></video>
 
 ## Reinhören
-<p class="audiotext">"Bootleg John"</p>
-<video src="/assets/images/bootlegjohn.mp4" autoplay muted loop width="100%"></video>
 <p class="audiotext">"I'll Tell Me Ma"</p>
 <audio controls>
   <source src="assets\images\Ill_Tell_Me_Ma.mp3" type="audio/ogg">

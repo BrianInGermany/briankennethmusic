@@ -1,14 +1,12 @@
 ## Cheers and Welcome!
 
 With the rambunctious rhythms of freshly interpreted folk traditionals, as well as a handful of his own songs, Brian Kenneth will get your hands a-clapping and your toes a-tapping!
-
+<img src="\assets\images\briankennethlogo1.png" id="brianpic" alt="logo" width="30%">
 Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of the folk melodies take you to a place the whisky tastes mild as the mountain dew, and the day after Sunday is Saturday all over again.
 <br/>
-<img src="\assets\images\briankennethlogo1.png" id="brianpic" alt="logo" width="50%">
+<video src="/assets/images/bootlegjohn.mp4" autoplay muted loop width="100%"></video>
 
 ## Listen in
-<p class="audiotext">"Bootleg John"</p>
-<video src="/assets/images/bootlegjohn.mp4" autoplay muted loop width="100%"></video>
 <p class="audiotext">"I'll Tell Me Ma"</p>
 <audio controls>
   <source src="assets\images\Ill_Tell_Me_Ma.mp3" type="audio/ogg">
