@@ -7,7 +7,7 @@ Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of t
 <video src="/assets/images/bootlegjohn.mp4" autoplay muted loop width="100%"></video>
 
 ## Bio
-Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virginia and Florida, USA, and has been living and playing music in Germany since 2008. For the past three years, the German-Irish American has been playing Appalachian folksongs and Irish pub tunes to the folk fans of the Rhine-Main-Area.
+Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virginia and Florida, USA, and has been living and playing music in Germany since 2008. For the past four years, the German-Irish American has been playing Appalachian folksongs and Irish pub tunes to the folk fans of the Rhine-Main-Area.
 
 ## Upcoming Gigs
 - [Folk Session at Irish House Offenbach](https://irishhouseof.de), 14 Nov. 2021, Time TBA, Ernst-Griesheimer-Platz 7, Offenbach
