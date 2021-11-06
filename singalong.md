@@ -103,10 +103,10 @@ Bake that hoecake brown,
 The only song that I can sing is  
 Boil them cabbage down   
 # 21. Ain't Gonna Work Tomorrow
-I ain't gonna work tomorrow,
-Ain't gonna work today,
-Ain't gonna work tomorrow, 
-For it is my wedding day.
+I ain't gonna work tomorrow,  
+Ain't gonna work today,  
+Ain't gonna work tomorrow,   
+For it is my wedding day.  
 # 22. Shady Grove
 Shady Grove, my little love,  
 Shady Grove I say,  
