@@ -116,7 +116,7 @@ I'm bound to go away.
 # 23. Raise the Glass High
 Raise Your Glass!  
 Raise Your Voice!  
-Sing a happy little tune and make some noise;   
+Sing a happy little tune, and make some noise;   
 There's a time... for staying dry,  
 But when we're here,  
 We'll raise the glass high!
