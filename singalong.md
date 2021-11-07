@@ -125,4 +125,8 @@ Bury me beneath the willow,
 Under the weeping willow tree,  
 When she hears that I am sleeping,  
 Maybe then she'll weep for me.  
+# 25. Rose Red
+Rose, rose, rose, red,  
+Will I ever see thee wed?  
+I will marry at thy will Sire, at thy will.  
 
