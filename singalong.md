@@ -120,4 +120,9 @@ Sing a happy little tune, and make some noise;
 There's a time... for staying dry,  
 But when we're here,  
 We'll raise the glass high!
+# 24. Bury Me Beneath the Willow
+Bury me beneath the willow,  
+Under the weeping willow tree,  
+When she hears that I am sleeping,  
+Maybe then she'll weep for me.  
 
