@@ -116,8 +116,8 @@ I'm bound to go away.
 # 23. Raise the Glass High
 Raise your glass!  
 Raise your voice!  
-Sing a happy little tune, and make some noise;   
-There's a time... for staying dry,  
+Sing a happy little tune, and make some noise,    
+There's a time, for staying dry,  
 But when we're here,  
 We'll raise the glass high!
 # 24. Bury Me Beneath the Willow
@@ -125,7 +125,14 @@ Bury me beneath the willow,
 Under the weeping willow tree,  
 When she hears that I am sleeping,  
 Maybe then she'll weep for me.  
-# 25. Rose Red
+# 25. All For Me Grog
+And it's all for me grog,  
+Me jolly, jolly grog,  
+All for me beer and tobacco!   
+Well I spent all me tin,  
+On the lassies drinkin' gin,  
+So across the western ocean I must wander!
+# 26. Rose Red
 Rose, rose, rose, red,  
 Will I ever see thee wed?  
 I will marry at thy will Sire, at thy will.  
