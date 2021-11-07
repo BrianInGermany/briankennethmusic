@@ -10,7 +10,8 @@ Please won’t you tell me,
 Who is she?   
 # 2. Molly Malone  
 Alive, alive-o, alive, alive-o!   
-Crying cockles and mussels, alive, alive-o!   
+Crying cockles and mussels,  
+Alive, alive-o!   
 # 3. The Moonshiner  
 I’m a rambler, I’m a gambler,   
 I’m a long way from home,   
