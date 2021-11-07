@@ -8,7 +8,7 @@ Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melanchol
 ## Bio
 Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musiziert seit über zehn Jahren in Deutschland. Seit vier Jahren bringt der Deutsch-Irisch-Amerikaner seine appalachischen Volkslieder und irischen Pub-Tunes in den Kneipen des Rhein-Main-Gebiets an die Folk-Fans.
 ## Anstehende Auftritte
-- [Folk Session at Irish House Offenbach](https://irishhouseof.de), 14. Nov. 2021, Uhrzeit folgt, Ernst-Griesheimer-Platz 7, Offenbach
+- [Folk Session at Irish House Offenbach](https://www.meetup.com/de-DE/main-wine/events/281917680), 14. Nov. 2021, 19h, Ernst-Griesheimer-Platz 7, Offenbach
   
 ## Presse
 - ["Ein Lagerfeuer mitten in Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), Artikel im Darmstädter Echo vom 1.8.2020
