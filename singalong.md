@@ -137,8 +137,12 @@ Oh, the land of a cloudless day,
 Oh, the land of an uncloudy sky,  
 They tell me of a place where my friends have gone,  
 Oh, they tell me of an uncloudy day.  
-# 27. Rose Red
+# 27. Cripple Creek
+Goin' down to Cripple Creek, goin' on a run,  
+Goin' down to Cripple Creek to have a little fun.  
+Goin' down to Cripple Creek, goin' in a whirl,  
+Goin' down to Cripple Creek to see my girl.  
+# 28. Rose Red
 Rose, rose, rose, red,  
 Will I ever see thee wed?  
 I will marry at thy will Sire, at thy will.  
-
