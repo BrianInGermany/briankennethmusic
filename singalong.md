@@ -85,7 +85,7 @@ All around the blooming heather…
 …wheel-a, wheel-a, wall-ya.   
 …down by the river Saul-ya   
 # 17. Down the Road
-Down the road, down the road,
+Down the road, down the road,  
 Got a little pretty girl down the road.
 # 18. Wreck of the Old 97
 Oh, they gave him his orders in Monroe Virginia, saying,  
@@ -132,7 +132,12 @@ All for me beer and tobacco!
 Well I spent all me tin,  
 On the lassies drinkin' gin,  
 So across the western ocean I must wander!
-# 26. Rose Red
+# 26. Uncloudy Day
+Oh, the land of a cloudless day,  
+Oh, the land of an uncloudy sky,  
+They tell me of a place where my friends have gone,  
+Oh, they tell me of an uncloudy day.  
+# 27. Rose Red
 Rose, rose, rose, red,  
 Will I ever see thee wed?  
 I will marry at thy will Sire, at thy will.  
