@@ -1,5 +1,5 @@
 ## Cheers und Willkommen!
-Mit den lebendigen Klängen neu interpretierter Folk-Traditionals sowie einer Auswahl eigener Folk-Kreationen bringt Brian Kenneth das Haus in Stimmung und eure Füße zum Stampfen.
+Mit den lebendigen Klängen neu interpretierter Folk-Traditionals sowie einer Auswahl eigener Folk-Kreationen bringt Brian Kenneth das Haus in Stimmung und eure Füße zum Stampfen!
 <img src="\assets\images\briankennethlogo1.png" id="brianpic" alt="logo" width="30%">
 Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melancholie der irischen Melodien in eine Welt versetzen, wo der Whisky so mild schmeckt wie Morgentau und nach Sonntag wieder Samstag an der Reihe ist.
 <br/>
