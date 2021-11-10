@@ -146,3 +146,8 @@ Goin' down to Cripple Creek to see my girl.
 Rose, rose, rose, red,  
 Will I ever see thee wed?  
 I will marry at thy will Sire, at thy will.  
+# 29. The Bonnie Ship the Diamond
+And it's cheer up me lads,  
+Let your hearts never fail,  
+For the bonnie ship the Diamond  
+Goes a-fishin' for the whale!  
