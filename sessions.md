@@ -1,4 +1,4 @@
-# Folk Sessions in Rhein-Main
+# Folk Sessions in Rhein-Main und Umgebung
 
 ## Offenbach
 - [Irish-American Folk Session im Irish House](https://www.facebook.com/events/1612710329121178)
@@ -18,3 +18,5 @@
 - [Irish Session im Connemara Pub](http://www.connemarairishpub.de/html/events.html)
 ## Mainz
 - [Irish Session in der ESG Bar](https://www.facebook.com/Irish-Trad-Session-ESG-Bar-2546704292030717/)
+## Kassel
+- [Old Time & Bluegrass Session Nordhessen](https://www.facebook.com/groups/BluegrassNordhessen/)
