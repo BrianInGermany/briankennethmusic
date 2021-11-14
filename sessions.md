@@ -29,3 +29,5 @@
 ## Kassel
 - [Old Time & Bluegrass Session Nordhessen](https://www.facebook.com/groups/BluegrassNordhessen/)
   
+## Gießen
+- [Irish Pub Gießen](https://www.irishpub-giessen.de/events/open-stage-82/)
