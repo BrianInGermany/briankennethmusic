@@ -1,7 +1,7 @@
 # Folk Sessions in Rhein-Main und Umgebung
 
 ## Offenbach
-- [Irish-American Folk Session im Irish House](https://www.facebook.com/events/1612710329121178)
+- [Irish-American Folk Session im An Sibin](https://www.facebook.com/groups/sessionoffenbach)
   
 ## Frankfurt
 - [Irish Music Session in Frankfurt Artbar](http://www.frankfurtartbar.de/)

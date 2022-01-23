@@ -42,6 +42,9 @@ Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virgini
 ## [Downloads](/downloads)
 
 ## [Sing-Along](/singalong)
+
+## [Session](/session)
+
 ## Contact
 - [Telegram](https://t.me/BrianJL)
 - [brian@briankenneth.rocks](mailto:brian@briankenneth.rocks)

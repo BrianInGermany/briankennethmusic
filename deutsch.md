@@ -10,7 +10,6 @@ Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musi
 ## Anstehende Auftritte
 - [Folk Session im Irish House Offenbach](https://mainandwine.eu/events), Sonntag, 23. Jan., 19:00, Ernst-Griesheimer-Platz 7, Offenbach
   
-  
 ## Presse
 - ["Ein Lagerfeuer mitten in Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), Artikel im Darmstädter Echo vom 1.8.2020
 
@@ -38,9 +37,12 @@ Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musi
 <!-- <iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1021407670&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe> -->
 
 ## [Gallery](gallery)
+
 ## [Downloads](/downloads)
 
 ## [Sing-Along](/singalong)
+
+## [Session](/session)
 
 ## Kontakt
 - [Telegram](https://t.me/BrianJL)
