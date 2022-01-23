@@ -42,7 +42,7 @@ Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musi
 
 ## [Sing-Along](/singalong)
 
-## [Session](/session)
+## [Sessions](/sessions)
 
 ## Kontakt
 - [Telegram](https://t.me/BrianJL)
