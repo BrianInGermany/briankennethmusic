@@ -20,13 +20,13 @@ Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virgini
  <audio controls>
      <source src="assets\images\No_Time_for_Lovin.mp3" type="audio/mpeg">
 </audio>
-<p class="audiotext">"Raise the Glass High" (by Brian Kenneth)</p>
- <audio controls>
-     <source src="assets\images\Raise the Glass High.mp3" type="audio/mpeg">
-</audio>
 <p class="audiotext">"Road That I Ramble" (by Brian Kenneth)</p>
 <audio controls>
  <source src="assets\images\Road_That_I_Ramble.mp3" type="audio/mpeg">
+</audio>
+<p class="audiotext">"Raise the Glass High" (by Brian Kenneth)</p>
+ <audio controls>
+     <source src="assets\images\Raise the Glass High.mp3" type="audio/mpeg">
 </audio>
 <p class="audiotext">"Down the Road" (Brian, Jim, JD and Javier)</p>
  <audio controls>
