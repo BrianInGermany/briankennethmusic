@@ -13,7 +13,7 @@ Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virgini
 - [Folk Session at Irish House Offenbach](https://mainandwine.eu/events), final Sunday of every month, 7pm, Ernst-Griesheimer-Platz 7, Offenbach
   
 ## Press
-- ["Ein Lagerfeuer mitten in Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), article in the Darmstädter Echo from 1 August 2020
+- ["A Campfire in the Middle of Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), article in the Darmstädter Echo from 1 August 2020
 
 ## Listen in
 <p class="audiotext">"No Time for Lovin'" (by Brian Kenneth)</p>
