@@ -10,7 +10,9 @@ Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of t
 Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virginia and Florida, USA, and has been living and playing music in Germany since 2008. For the past four years, the German-Irish American has been playing Appalachian folksongs and Irish pub tunes to the folk fans of the Rhine-Main-Area.
 
 ## Upcoming Gigs
+- Live at Good Coffee Fairtrade Café, Sun., March 20th at 6pm, Kleiner Biergrund 17, Offenbach
 - [Folk Session at Irish House Offenbach](https://mainandwine.eu/events), final Sunday of every month, 7pm, Ernst-Griesheimer-Platz 7, Offenbach
+- Heiner Hootenanny: Folk extravaganza at Bessunger Knabenschule, Sat., Aug. 6th, Ludwigshöhstraße 42, Darmstadt
   
 ## Press
 - ["A Campfire in the Middle of Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), article in the Darmstädter Echo from 1 August 2020
