@@ -4,7 +4,7 @@ With the rambunctious rhythms of freshly interpreted folk traditionals, as well 
 <img src="\assets\images\briankennethlogo1.png" id="brianpic" alt="logo" width="30%">
 Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of the folk melodies take you to a place the whisky tastes mild as the mountain dew, and the day after Sunday is Saturday all over again.
 <br/>
-<video src="/assets/images/bootlegjohn.mp4" autoplay muted loop width="100%"></video>
+<video src="/assets/images/rolandVideo2.mp4" autoplay muted loop width="100%"></video>
 
 ## Bio
 Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virginia and Florida, USA, and has been living and playing music in Germany since 2008. For the past four years, the German-Irish American has been playing Appalachian folksongs and Irish pub tunes to the folk fans of the Rhine-Main-Area.

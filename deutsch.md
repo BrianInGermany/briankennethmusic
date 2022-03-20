@@ -3,7 +3,7 @@ Mit den lebendigen Klängen neu interpretierter Folk-Traditionals sowie einer Au
 <img src="\assets\images\briankennethlogo1.png" id="brianpic" alt="logo" width="30%">
 Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melancholie der irischen Melodien in eine Welt versetzen, wo der Whisky so mild schmeckt wie Morgentau und nach Sonntag wieder Samstag an der Reihe ist.
 <br/>
-<video src="/assets/images/bootlegjohn.mp4" autoplay muted loop width="100%"></video>
+<video src="/assets/images/rolandVideo2.mp4" autoplay muted loop width="100%"></video>
 
 ## Bio
 Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musiziert seit über zehn Jahren in Deutschland. Seit vier Jahren bringt der Deutsch-Irisch-Amerikaner seine appalachischen Volkslieder und irischen Pub-Tunes in den Kneipen des Rhein-Main-Gebiets an die Folk-Fans.
