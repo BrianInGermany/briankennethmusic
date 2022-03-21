@@ -1,5 +1,5 @@
 ## Photos
-- <figure><img src="\assets\images\goodcoffeebri.jpg" alt="goodcoffeeBrian" width="75%"><figcaption>Good Coffee Offenbach</a></figcaption></figure>
+- <figure><img src="\assets\images\goodcoffeebri.jpg" alt="goodcoffeeBrian" width="75%"><figcaption>Good Coffee Offenbach</figcaption></figure>
 - <figure><img src="\assets\images\BrianJunker_WEB_c_ELROLE-9728.jpg" alt="sittingBrian" width="75%"><figcaption>Image credit: <a href="http://elrole.de">El Rolé 2022</a></figcaption></figure>
 - <figure><img src="\assets\images\BrianJunker_WEB_c_ELROLE-9810.jpg" alt="treeBrian" width="75%"><figcaption>Image credit: <a href="http://elrole.de">El Rolé 2022</a></figcaption></figure>
 - <figure><img src="\assets\images\brianSession.jpg" alt="ansibinBrian" width="75%"><figcaption>An Sibin Offenbach</figcaption></figure>
