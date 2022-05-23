@@ -40,7 +40,6 @@ Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virgini
 ## [The Irish-American Session](/session)
 
 ## Contact
-- [Telegram](https://t.me/BrianJL)
 - [brian@briankenneth.rocks](mailto:brian@briankenneth.rocks)
 - [Facebook](https://facebook.com/briankennethmusic)
 - [Instagram](https://www.instagram.com/briankennethmusic/)

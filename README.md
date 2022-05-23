@@ -40,7 +40,6 @@ Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musi
 ## [The Irish-American Session](/session)
 
 ## Kontakt
-- [Telegram](https://t.me/BrianJL)
 - [brian@briankenneth.rocks](mailto:brian@briankenneth.rocks)
 - [Facebook](https://facebook.com/briankennethmusic)
 - [Instagram](https://www.instagram.com/briankennethmusic/)
