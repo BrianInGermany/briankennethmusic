@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Cheers and Welcome!
 
 With the rambunctious rhythms of freshly interpreted folk traditionals, as well as a handful of his own songs, Brian Kenneth will get your hands a-clapping and your toes a-tapping!
