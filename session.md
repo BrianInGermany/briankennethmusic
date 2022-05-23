@@ -6,7 +6,7 @@ url: https://briankenneth.rocks/session
 logo: https://mainandwine.eu/assets/img/pubOF.png
 ---
 
-## Live Irish and American Folk at An Sibin Irish Pub
+## The Irish-American Session at An Sibin Offenbach
 - __Every final Sunday of the month at 7:00pm__
 - __Ernst-Griesheimer-Platz 7__  
   __63071 Offenbach am Main__
