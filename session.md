@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Jeden letzten Sonntag: Live Folk Music im An Sibin!"
-description: Kommt vorbei, hört rein, spielt mit bei einem geselligen Abend fußstampfender Folklieder im wunderschönen Alten Schlachthof in Offenbach.
+description: Kommt vorbei, hört rein, spielt mit bei einem geselligen Abend fußstampfender Folklieder.
 url: https://briankenneth.rocks/session
 logo: https://mainandwine.eu/assets/img/pubOF.png
 ---
