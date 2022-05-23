@@ -7,12 +7,12 @@ logo: https://mainandwine.eu/assets/img/pubOF.png
 ---
 
 ## The Irish-American Session
-- __Every final Sunday of the month at 7:00pm__
+- __jeden letzten Sonntag im Monat um 19:00__
 - __An Sibin Irish Pub__
 - __Ernst-Griesheimer-Platz 7__  
   __63071 Offenbach am Main__
-- Join us for an evening of live Old Time, Bluegrass and Irish folk in the beautiful Alter Schlachthof in Offenbach.
-- An Sibin is a gem of a pub with great fish and chips, as well as a full bar and other food.
+- Kommt vorbei! Hört rein oder spielt mit, und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melancholie der Melodien in eine Welt versetzen, wo der Whisky so mild schmeckt wie Morgentau und nach Sonntag wieder Samstag an der Reihe ist. Und das in der historischen Halle des Alten Schlachthofs in Offenbach.
+- An Sibin ist ein erstklassiger Pub mit großartigen Fish and Chips, sowie einer voll ausgestatten Bar und Speisekarte.
 
 <video src="https://briankenneth.rocks/assets/images/sessionAnSibin.mp4" autoplay muted loop controls width="100%"></video>
 
