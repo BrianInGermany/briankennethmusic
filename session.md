@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Jeden letzten Sonntag: Live Folk Music im An Sibin!"
-description: Kommt vorbei, hört rein, spielt mit, bei einem geselligen Abend fußstampfender Folklieder im wunderschönen Alten Schlachthof in Offenbach.
+description: Kommt vorbei, hört rein, spielt mit bei einem geselligen Abend fußstampfender Folklieder im wunderschönen Alten Schlachthof in Offenbach.
 url: https://briankenneth.rocks/session
 logo: https://mainandwine.eu/assets/img/pubOF.png
 ---
@@ -11,9 +11,9 @@ logo: https://mainandwine.eu/assets/img/pubOF.png
 - __An Sibin Irish Pub__
 - __Ernst-Griesheimer-Platz 7__  
   __63071 Offenbach am Main__
-- Kommt vorbei, auf einen geselligen Abend fußstampfender Folklieder! 
-- Hört rein oder spielt mit, und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melancholie der irischen Melodien in eine Welt versetzen, wo der Whisky so mild schmeckt wie Morgentau und nach Sonntag wieder Samstag an der Reihe ist. Und das in der historischen Halle des Alten Schlachthofs in Offenbach.
-- An Sibin ist ein erstklassiger Pub mit großartigen Fish and Chips, sowie einer voll ausgestatten Bar und Speisekarte.
+- Kommt vorbei auf einen geselligen Abend fußstampfender Folklieder! 
+- Hört rein oder spielt mit, und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melancholie der irischen Melodien in eine Welt versetzen, wo der Whisky so mild schmeckt wie Morgentau und nach Sonntag wieder Samstag an der Reihe ist. 
+- An Sibin ist ein gemütlicher Pub mit großartigen Fish and Chips, sowie einer voll ausgestatten Bar und Speisekarte.
 
 <video src="https://briankenneth.rocks/assets/images/sessionAnSibin.mp4" autoplay muted loop controls width="100%"></video>
 
