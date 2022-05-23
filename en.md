@@ -39,7 +39,7 @@ Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virgini
 
 ## [Sing-Along](/singalong)
 
-## [Sessions](/sessions)
+## [The Irish-American Session, Offenbach](/session)
 
 ## Contact
 - [Telegram](https://t.me/BrianJL)
