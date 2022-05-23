@@ -37,8 +37,6 @@ Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virgini
 
 ## [Gallery](/gallery)
 
-## [Sing-Along](/singalong)
-
 ## [The Irish-American Session](/session)
 
 ## Contact

@@ -37,8 +37,6 @@ Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musi
 
 ## [Gallery](gallery)  
 
-## [Sing-Along](/singalong)
-
 ## [The Irish-American Session](/session)
 
 ## Kontakt
