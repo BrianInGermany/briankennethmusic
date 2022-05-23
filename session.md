@@ -1,2 +1,18 @@
-<meta http-equiv="refresh" content="0; url=https://www.facebook.com/groups/sessionoffenbach" />
-<p><a href="https://www.facebook.com/groups/sessionoffenbach">Session Offenbach Facebook Group</a></p>
+---
+layout: page
+title: "Every Final Sunday: Live Folk Music at An Sibin!"
+description: Join us for an evening of live folk and Bluegrass music in the beautiful Alter Schlachthof in Offenbach.
+url: https://briankenneth.rocks/session
+logo: https://mainandwine.eu/assets/img/pubOF.png
+---
+
+## Live Irish and American Folk at An Sibin Irish Pub
+- __Every final Sunday of the month at 7:00pm__
+- __Ernst-Griesheimer-Platz 7__  
+  __63071 Offenbach am Main__
+- The Irish-American session is an event where various musicians of the folk genre gather to sing and play guitar, fiddle, bass, banjo, etc. for your and their own delight.
+- An Sibin Offenbach is a gem of a pub with great fish and chips, as well as a full bar and other food.
+
+<video src="https://briankenneth.rocks/assets/images/sessionAnSibin.mp4" autoplay muted loop controls width="100%"></video>
+
+## Join the [Facebook group!](https://www.facebook.com/groups/sessionoffenbach)

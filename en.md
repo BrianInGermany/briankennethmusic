@@ -11,7 +11,7 @@ Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virgini
 
 ## Upcoming Gigs
 - Live at Good Coffee Fairtrade Café, Sun., March 20th at 6pm, Kleiner Biergrund 17, Offenbach
-- [Folk Session at Irish House Offenbach](https://mainandwine.eu/events), final Sunday of every month, 7pm, Ernst-Griesheimer-Platz 7, Offenbach
+- [Irish-American Session at Irish House Offenbach](https://briankenneth.rocks/session), final Sunday of every month, 7pm, Ernst-Griesheimer-Platz 7, Offenbach
 - Heiner Hootenanny: Folk extravaganza at Bessunger Knabenschule, Sat., Aug. 6th, Ludwigshöhstraße 42, Darmstadt
   
 ## Press
