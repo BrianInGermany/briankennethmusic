@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <!-- twitter -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@JunkerLatocha" />
+    <meta name="twitter:title" content="{{ page.title }}" />
+    <meta name="twitter:description" content="{{ page.description }}" />
+    <meta name="twitter:image" content="{{ page.logo }}">
+<!-- end twitter -->
+<!-- FB OG-->
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:description" content="{{ page.description }}" />
+<meta property="og:url" content="{{ page.title }}" />
+<meta property="og:image" content="{{ page.logo }}" />
+<!-- ennd FB OG -->
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=640">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <title>Foot-Tappin' Folk! - Brian Kenneth</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen">
+    <link rel="stylesheet" href="{{ '/assets/css/mobile.css' | relative_url }}" media="handheld, only screen and (max-device-width:640px)">
+    <link rel="stylesheet" href="{{ '/assets/css/non-screen.css' | relative_url }}" media="handheld, only screen and (max-device-width:640px)">
+
+    <script src="{{ '/assets/js/modernizr.js' | relative_url }}"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/headsmart.min.js' | relative_url }}"></script>
+    <script>
+      $(document).ready(function () {
+        $('#main_content').headsmart()
+      })
+    </script>
+    <!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<style>
+  #brianpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    -webkit-box-shadow: 0px 0px 0px #bdb6ad;
+    -moz-box-shadow: 0px 0px 0px #bdb6ad;
+    box-shadow: 0px 0px 0px #bdb6ad;
+    border: 0px solid #fff6e9;
+    max-width: 556px;
+  }
+  audio {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+ .audiotext {
+   
+    text-align: center;
+  }
+  </style>
+
+{% seo %}
+  </head>
+
+  <body>
+    <!-- {% if page.url == "/" or page.name == "deutsch.md" %}
+    <a id="forkme_banner" href="/gallery">Image Gallery</a>
+    {% elsif page.name == "gallery.md" or page.name == "privacy.md" %}
+    <a id="forkme_banner_home" href="/">Home</a>
+          {% endif %}  -->
+
+    
+    <div class="shell">
+
+      <header>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+            <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+      </header>
+
+      {% if site.show_downloads %}
+        <section id="downloads">
+          <span class="inner">
+            <a href="https://www.briankenneth.rocks/#newsletter" class="zip"><em>subscribe to</em>NEWSLETTER</a>
+            <a href="mailto:brian@briankenneth.rocks" class="tgz"><em>send an</em>EMAIL</a> 
+          </span>
+        </section>
+      {% else %}
+        <div id="no-downloads">
+          <span class="inner">
+          </span>
+        </div>
+      {% endif %}
+
+
+      <span class="banner-fix"></span>
+
+
+      <section id="main_content">
+        {{ content }}
+      </section>
+
+      <footer>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            {% if site.github.is_project_page %}
+              <p>foot-tappin' <a>folk </a>from <a>Offenbach,</a> Germany</p>
+            {% endif %}
+            {% if site.github.is_user_page %}
+              <p>Projects by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on <a href="{{ site.github.repository_url }}">GitHub</a></p>
+            {% endif %}
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+        <!-- <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
+        <span class="octocat"></span> -->
+        </br>
+        {% if page.url == "/" %}
+        <a href="/en">English</a>
+     
+          {% elsif page.name == "en.md" %}
+        <a href="/">Deutsch</a>
+          {% endif %} 
+   
+      </footer>
+
+    </div>
+
+    {% if site.google_analytics %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+    <!-- {% include cookie-consent.html %} -->
+  </body>
+</html>

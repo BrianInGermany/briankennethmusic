@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Every Final Sunday: Live Folk Music at An Sibin!"
 description: Join us for an evening of live folk and Bluegrass music in the beautiful Alter Schlachthof in Offenbach.
 url: https://briankenneth.rocks/session
