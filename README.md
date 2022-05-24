@@ -8,7 +8,6 @@ Hört rein und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melanchol
 ## Bio
 Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musiziert seit über zehn Jahren in Deutschland. Seit vier Jahren bringt der Deutsch-Amerikaner seine appalachischen Volkslieder in den Kneipen des Rhein-Main-Gebiets an die Folk-Fans.
 ## Anstehende Auftritte
-- Live at Good Coffee Fairtrade Café, Sun., March 20th at 6pm, Kleiner Biergrund 17, Offenbach
 - [Irish-American Session im Irish House Offenbach](https://briankenneth.rocks/session), am letzten Sonntag im Monat, 19:00, Ernst-Griesheimer-Platz 7, Offenbach
 - Heiner Hootenanny: Folk extravaganza at Bessunger Knabenschule, Sat., Aug. 6th, Ludwigshöhstraße 42, Darmstadt
   
