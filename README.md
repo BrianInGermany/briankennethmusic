@@ -28,10 +28,6 @@ Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musi
  <audio controls>
      <source src="assets\images\city_slicker.mp3" type="audio/mpeg">
 </audio>
-<p class="audiotext">"No Time for Lovin'" (by Brian Kenneth)</p>
- <audio controls>
-     <source src="assets\images\No_Time_for_Lovin.mp3" type="audio/mpeg">
-</audio>
 
 <!-- <iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1021407670&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe> -->
 

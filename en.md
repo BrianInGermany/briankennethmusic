@@ -30,11 +30,6 @@ Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virgini
  <audio controls>
      <source src="assets\images\city_slicker.mp3" type="audio/mpeg">
 </audio>
-<p class="audiotext">"No Time for Lovin'" (by Brian Kenneth)</p>
- <audio controls>
-     <source src="assets\images\No_Time_for_Lovin.mp3" type="audio/mpeg">
-</audio>
-
 
 ## [Gallery](/gallery)
 
