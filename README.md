@@ -10,6 +10,7 @@ Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musi
 ## Anstehende Auftritte
 - [Irish-American Session im Irish House Offenbach](https://briankenneth.rocks/session), am letzten Sonntag im Monat, 19:00, Ernst-Griesheimer-Platz 7, Offenbach
 - Heiner Hootenanny: Folk extravaganza at Bessunger Knabenschule, Sat., Aug. 6th, Ludwigshöhstraße 42, Darmstadt
+<a href="https://knabenschule.de"><img src="/assets/images/hootenanny.jpg"></a>
   
 ## Presse
 - ["Ein Lagerfeuer mitten in Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), Artikel im Darmstädter Echo vom 1.8.2020
