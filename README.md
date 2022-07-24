@@ -16,15 +16,15 @@ Brian Kenneth ist in Virginia und Florida, USA, aufgewachsen, und wohnt und musi
 - ["Ein Lagerfeuer mitten in Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), Artikel im Darmstädter Echo vom 1.8.2020
 
 ## Reinhören
-<p class="audiotext">"Down the Road" (by Brian Kenneth)</p>
+<p class="audiotext">"Down the Road"</p>
  <audio controls>
      <source src="assets\images\down_the_road.mp3" type="audio/mpeg">
 </audio>
-<p class="audiotext">"No One to See to the Pie" (by Brian Kenneth)</p>
+<p class="audiotext">"No One to See to the Pie"</p>
 <audio controls>
  <source src="assets\images\no_one_to_see.mp3" type="audio/mpeg">
 </audio>
-<p class="audiotext">"The City Slicker" (by Brian Kenneth)</p>
+<p class="audiotext">"The City Slicker"</p>
  <audio controls>
      <source src="assets\images\city_slicker.mp3" type="audio/mpeg">
 </audio>

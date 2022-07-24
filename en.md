@@ -18,15 +18,15 @@ Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virgini
 - ["A Campfire in the Middle of Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), article in the Darmstädter Echo from 1 August 2020
 
 ## Listen in
-<p class="audiotext">"Down the Road" (by Brian Kenneth)</p>
+<p class="audiotext">"Down the Road"</p>
  <audio controls>
      <source src="assets\images\down_the_road.mp3" type="audio/mpeg">
 </audio>
-<p class="audiotext">"No One to See to the Pie" (by Brian Kenneth)</p>
+<p class="audiotext">"No One to See to the Pie"</p>
 <audio controls>
  <source src="assets\images\no_one_to_see.mp3" type="audio/mpeg">
 </audio>
-<p class="audiotext">"The City Slicker" (by Brian Kenneth)</p>
+<p class="audiotext">"The City Slicker"</p>
  <audio controls>
      <source src="assets\images\city_slicker.mp3" type="audio/mpeg">
 </audio>
