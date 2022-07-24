@@ -17,17 +17,17 @@ Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virgini
 - ["A Campfire in the Middle of Darmstadt"](https://www.echo-online.de/freizeit/kunst-und-kultur/musik/ein-lagerfeuer-mitten-in-darmstadt_22032124), article in the Darmstädter Echo from 1 August 2020
 
 ## Listen in
+<p class="audiotext">"No One to See to the Pie" (by Brian Kenneth)</p>
+<audio controls>
+ <source src="assets\images\no_one_to_see.mp3" type="audio/mpeg">
+</audio>
+<p class="audiotext">"The City Slicker" (by Brian Kenneth)</p>
+ <audio controls>
+     <source src="assets\images\city_slicker.mp3" type="audio/mpeg">
+</audio>
 <p class="audiotext">"No Time for Lovin'" (by Brian Kenneth)</p>
  <audio controls>
      <source src="assets\images\No_Time_for_Lovin.mp3" type="audio/mpeg">
-</audio>
-<p class="audiotext">"Road That I Ramble" (by Brian Kenneth)</p>
-<audio controls>
- <source src="assets\images\Road_That_I_Ramble.mp3" type="audio/mpeg">
-</audio>
-<p class="audiotext">"Raise the Glass High" (by Brian Kenneth)</p>
- <audio controls>
-     <source src="assets\images\Raise the Glass High.mp3" type="audio/mpeg">
 </audio>
 <p class="audiotext">"Down the Road" (Brian, Jim, JD and Javier)</p>
  <audio controls>
@@ -35,6 +35,8 @@ Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virgini
 </audio>
 
 ## [Gallery](/gallery)
+
+## [Albums](/albums)
 
 ## [The Irish-American Session](/session)
 
