@@ -10,7 +10,7 @@ Listen in, and let the boom-chuck of the bluegrass tunes and the melancholy of t
 Born in the midwest metropolis of Indianapolis, Brian Kenneth grew up in Virginia and Florida, USA, and has been living and playing music in Germany since 2008. For the past four years, the German-American has been playing Appalachian folksongs to the folk fans of the Rhine-Main-Area.
 
 ## Upcoming Gigs
-- [Irish-American Session at Irish House Offenbach](https://briankenneth.rocks/session), final Sunday of every month, 7pm, Ernst-Griesheimer-Platz 7, Offenbach
+- [Irish-American Session at Irish House Offenbach](https://brianingermany.github.io/briankennethmusic/session), final Sunday of every month, 7pm, Ernst-Griesheimer-Platz 7, Offenbach
 - Heiner Hootenanny: Folk extravaganza at Bessunger Knabenschule, Sat., Aug. 6th, Ludwigshöhstraße 42, Darmstadt
 <a href="https://knabenschule.de"><img src="/assets/images/hootenanny.jpg"></a>
 

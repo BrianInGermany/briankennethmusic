@@ -2,7 +2,7 @@
 layout: page
 title: "Jeden letzten Sonntag: Live Folk Music im An Sibin!"
 description: Kommt vorbei, hört rein, spielt mit bei einem geselligen Abend fußstampfender Folklieder.
-url: https://briankenneth.rocks/session
+url: https://brianingermany.github.io/briankennethmusic/session
 logo: https://mainandwine.eu/assets/img/pubOF.png
 ---
 
@@ -15,7 +15,7 @@ logo: https://mainandwine.eu/assets/img/pubOF.png
 - An Sibin ist ein gemütlicher Pub mit großartigen Fish and Chips, sowie einer voll ausgestatten Bar und Speisekarte.
 - Gute Parkmöglichkeiten vor Ort.
   
-<video src="https://briankenneth.rocks/assets/images/sessionAnSibin.mp4" autoplay muted loop controls width="100%"></video>
+<video src="https://brianingermany.github.io/briankennethmusic/assets/images/sessionAnSibin.mp4" autoplay muted loop controls width="100%"></video>
 
 - Hört rein oder spielt mit, und lasst euch vom Boom-Chuck der Bluegrass-Nummern und der Melancholie der irischen Melodien in eine Welt versetzen, wo der Whisky so mild schmeckt wie Morgentau und nach Sonntag wieder Samstag an der Reihe ist. 
 

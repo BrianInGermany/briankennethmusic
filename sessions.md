@@ -1,7 +1,7 @@
 # Folk Sessions in Rhein-Main und Umgebung
 
 ## Offenbach
-- [Irish-American Folk Session im An Sibin](https://briankenneth.rocks/session)
+- [Irish-American Folk Session im An Sibin](https://brianingermany.github.io/briankennethmusic/session)
   
 ## Frankfurt
 - [Irish Music Session in Frankfurt Artbar](http://www.frankfurtartbar.de/)
